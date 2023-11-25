@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50004ffab82c8c3b8b85f7f0ca5a414c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121853
+  packageName: Broccoli Tree Creator
+  packageVersion: 1.9.2
+  assetPath: Assets/Waldemarst/BroccoliExamples/Scenes/CatalogShowcaseSettings.lighting
+  uploadId: 627867

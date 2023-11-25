@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9d4d3c3a5edfd58f9c727ac6dbd3973
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121853
+  packageName: Broccoli Tree Creator
+  packageVersion: 1.9.2
+  assetPath: Assets/Waldemarst/Broccoli/Editor/Resources/Shaders/BrSproutLabComposite.shader
+  uploadId: 627867
